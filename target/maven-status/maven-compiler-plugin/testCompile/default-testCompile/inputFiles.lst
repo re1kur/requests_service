@@ -1,0 +1,8 @@
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/controller/RequestAssignmentControllerTest.java
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/controller/RequestAssignmentsControllerTest.java
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/controller/RequestControllerTest.java
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/controller/RequestsControllerTest.java
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/mapper/RequestAssignmentMapperTest.java
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/mapper/RequestMapperTest.java
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/service/RequestAssignmentServiceTest.java
+/home/re1kur/Projects/supvz/requests_service/src/test/java/com/supvz/requests_service/service/RequestServiceTest.java

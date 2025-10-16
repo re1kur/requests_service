@@ -1,0 +1,8 @@
+com/supvz/requests_service/service/RequestServiceTest.class
+com/supvz/requests_service/mapper/RequestMapperTest.class
+com/supvz/requests_service/controller/RequestAssignmentControllerTest.class
+com/supvz/requests_service/controller/RequestControllerTest.class
+com/supvz/requests_service/controller/RequestsControllerTest.class
+com/supvz/requests_service/service/RequestAssignmentServiceTest.class
+com/supvz/requests_service/mapper/RequestAssignmentMapperTest.class
+com/supvz/requests_service/controller/RequestAssignmentsControllerTest.class
